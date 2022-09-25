@@ -17,6 +17,6 @@ class Settings():
     self.bullets_allowed = 3
     
     self.alien_speed_factor = 1
-    self.fleet_drop_speed = 10
+    self.fleet_drop_speed = 70
     # 1表示向右 -1表示向左
     self.fleet_direction = 1
